@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Погода на сегодня</string>
+    <string name="view_weather">Показать</string>
+    <string name="degree_celsius_symbol">°C</string>
+    <string name="description_weather_condition_icon">weather condition icon</string>
+    <string name="label_humidity">Влажность</string>
+    <string name="label_pressure">Давление</string>
+    <string name="label_visibility">Видимость</string>
+    <string name="label_sunrise">Восход</string>
+    <string name="label_sunset">Закат</string>
+</resources>
